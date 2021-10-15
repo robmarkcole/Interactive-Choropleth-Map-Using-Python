@@ -1,6 +1,6 @@
 # A Complete Guide to an Interactive Geographical Map using Python
 
-Ever wondered how these beautiful geographical maps are created? Our World in Data has an extensive collection of interactive data visualizations on aspects dedicated to the global changes in health, population growth, education, culture, violence, political power, technology and several things that we care about. These visualizations help us understand how and why the world has changed over the last few decades. I was intrigued with this wealth of information and motivated to dive deeper.
+Ever wondered how these beautiful geographical maps are created? Our World in Data has an extensive collection of interactive data visualizations on aspects dedicated to the global changes in health, population growth, education, culture, violence, political power, technology and several things that we care about. These visualizations help us understand how and why the world has changed over the last few decades. This repo demos how to create an interacitve map shown below using bokeh. The map can be saved as an html file but then looses the date slider, however tooltips do work.
 
 <p align="center">
 <img src="https://github.com/robmarkcole/Interactive-Choropleth-Map-Using-Python/blob/master/plot.png" width="1100">
