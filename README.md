@@ -2,8 +2,6 @@
 
 Ever wondered how these beautiful geographical maps are created? Our World in Data has an extensive collection of interactive data visualizations on aspects dedicated to the global changes in health, population growth, education, culture, violence, political power, technology and several things that we care about. These visualizations help us understand how and why the world has changed over the last few decades. I was intrigued with this wealth of information and motivated to dive deeper.
 
-[Blog]()
-
 # Pre-requisites
 - [Docker](https://docs.docker.com/install/)
 - [Docker Compose](https://docs.docker.com/compose/install/)
